@@ -19,8 +19,6 @@ Bringing web designs to life with precision and passion</h3>
 - 👯 **Looking to Collaborate On:** Open Source Projects  
 - 🌐 **Website:** [PavneetBomrah.github.io](https://PavneetBomrah.github.io)  
 - 📫 **Reach Me At:** [pavneetbomrah@gmail.com](mailto:pavneetbomrah@gmail.com)  
-- ⚡ **Fun Fact:** I play games and go to the gym very often.  
-
 ---
 
 ## 💼 Skills & Expertise
