@@ -1,5 +1,6 @@
-<a>
-<img src="https://github.com/PavneetBomrah/PavneetBomrah/blob/main/file_0000000081cc61f79b9a72e984d3ffeb_conversation_id=67f89c79-32f0-8008-ae12-52cefebd6173&message_id=ac49a806-b6e1-4ea4-b493-841f2a1435c7.png?raw=true"/>
+<a align="center" width="100%">
+<img src="https://github.com/PavneetBomrah/PavneetBomrah/blob/main/file_0000000081cc61f79b9a72e984d3ffeb_conversation_id=67f89c79-32f0-8008-ae12-52cefebd6173&message_id=ac49a806-b6e1-4ea4-b493-841f2a1435c7.png?raw=true"
+    width="200px" height="auto" align="center"/>
 </a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave">, I'm <span style="color:#df1111">P</span>avneet Singh</h1>
