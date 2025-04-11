@@ -1,5 +1,5 @@
 <a href="#"><p align="center">
-<img src="https://github.com/PavneetBomrah/PavneetBomrah/blob/main/file_0000000081cc61f79b9a72e984d3ffeb_conversation_id=67f89c79-32f0-8008-ae12-52cefebd6173&message_id=ac49a806-b6e1-4ea4-b493-841f2a1435c7.png?raw=true"
+<img src="https://raw.githubusercontent.com/PavneetBomrah/PavneetBomrah/refs/heads/main/file_00000000b34c61f68a296af5f87c8086_conversation_id%3D67f89c79-32f0-8008-ae12-52cefebd6173%26message_id%3Dc0bede7b-2c88-47e2-83e1-ea8534b96ba0.png"
     width="200px" height="auto" align="center"/>
 </p>
 </a>
