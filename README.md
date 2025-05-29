@@ -1,6 +1,7 @@
 <a href="#"><p align="center">
-<img src="https://github.com/PavneetBomrah/pavneetbomrah.github.io/blob/master/faviicon.png" style="border-radius: 50%;"
-    width="200px" height="auto" align="center"/>
+<div align="center">
+    <img src="https://github.com/PavneetBomrah/pavneetbomrah.github.io/blob/master/faviicon.png" width="200px" height="auto" align="center"/>
+</div>
 </p>
 </a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave">, I'm <span style="color:#df1111">P</span>avneet Singh</h1>
