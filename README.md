@@ -1,6 +1,6 @@
 <a href="#"><p align="center">
 <div align="center">
-    <img src="https://github.com/PavneetBomrah/pavneetbomrah.github.io/blob/master/faviicon.png" width="200px" height="auto" align="center"/>
+    <img src="https://github.com/PavneetBomrah/pavneetbomrah.github.io/blob/master/favicon.png" width="200px" height="auto" align="center"/>
 </div>
 </p>
 </a>
