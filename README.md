@@ -41,6 +41,7 @@ Bringing web designs to life with precision and passion</h3>
 <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/></a>
 <a href="https://docs.mongodb.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
 <!--<a href="https://wordpress.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress"/></a>-->
 <!--<a href="https://www.opencart.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/opencart.png" alt="OpenCart"/></a>-->
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
