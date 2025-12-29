@@ -57,7 +57,7 @@ Bringing web designs to life with precision and passion</h3>
     <a href="https://PavneetBomrah.github.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website"/></a>
 </p>
 
----
+<!---
 
 ## 📊 GitHub Stats:
 
@@ -65,7 +65,7 @@ Bringing web designs to life with precision and passion</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=PavneetBomrah&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavneetBomrah&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
-
+--->
 ---
 
 ## 📌 Projects:
