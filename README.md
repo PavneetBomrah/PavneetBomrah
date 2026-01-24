@@ -70,7 +70,7 @@ Bringing web designs to life with precision and passion</h3>
 
 ## 📌 Projects:
 
-- 🔗 [Portfolio Website](https://PavneetBomrah.github.io)  
+- 🔗 [Portfolio Website](https://idlepb.in)  
 - 📋 [Open Source Contributions](https://github.com/PavneetBomrah?tab=repositories&q=Project-&type=&language=&sort=)  
 
 ---
